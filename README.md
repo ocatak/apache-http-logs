@@ -1,4 +1,4 @@
-[![Analytics](https://ga-beacon.appspot.com/UA-108796420-1/apache-http-logs)](https://github.com/igrigorik/ga-beacon)
+
 # The apache-http-logs Dataset Description
 Our public dataset to detect vulnerability scans, XSS and SQLI attacks, examine access log files for detections for cyber security researchers.
 
